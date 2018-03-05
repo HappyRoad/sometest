@@ -1,3 +1,3 @@
 # sometest
 
-do some exercise
+do some exercise using C
